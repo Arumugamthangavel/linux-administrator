@@ -128,11 +128,11 @@ Output Skill
 
 ---
 
-PHASE 3: User & Permission Administration
+# PHASE 3: User & Permission Administration
 
-Goal: Learn Linux security DNA.
+## Goal: Learn Linux security DNA.
 
-Topics
+### Topics
 
 Users and groups
 
@@ -170,11 +170,11 @@ Output Skill
 
 ---
 
-PHASE 4: Process & Service Management
+# PHASE 4: Process & Service Management
 
-Goal: Control the operating system itself.
+## Goal: Control the operating system itself.
 
-Topics
+### Topics
 
 Processes
 
@@ -217,11 +217,11 @@ Output Skill
 
 ---
 
-PHASE 5: Package Management
+# PHASE 5: Package Management
 
-Goal: Install and maintain software professionally.
+## Goal: Install and maintain software professionally.
 
-Topics
+### Topics
 
 RPM
 
@@ -252,11 +252,11 @@ Output Skill
 
 ---
 
-PHASE 6: Storage Administration
+# PHASE 6: Storage Administration
 
-Goal: Become storage-aware.
+## Goal: Become storage-aware.
 
-Topics
+### Topics
 
 Disk partitioning
 
@@ -297,11 +297,11 @@ Output Skill
 
 ---
 
-PHASE 7: Networking in Linux
+# PHASE 7: Networking in Linux
 
-Goal: Make servers communicate.
+## Goal: Make servers communicate.
 
-Topics
+### Topics
 
 IP addressing
 
@@ -347,11 +347,11 @@ Output Skill
 
 ---
 
-PHASE 8: Linux Security
+# PHASE 8: Linux Security
 
-Goal: Harden systems.
+## Goal: Harden systems.
 
-Topics
+### Topics
 
 FirewallD
 
@@ -382,11 +382,11 @@ Output Skill
 
 ---
 
-PHASE 9: Shell Scripting & Automation
+# PHASE 9: Shell Scripting & Automation
 
-Goal: Stop doing repetitive work manually.
+## Goal: Stop doing repetitive work manually.
 
-Topics
+### Topics
 
 Bash scripting
 
@@ -423,11 +423,11 @@ Output Skill
 
 ---
 
-PHASE 10: Server Administration
+# PHASE 10: Server Administration
 
-Goal: Run real services.
+## Goal: Run real services.
 
-Topics
+### Topics
 
 Apache/Nginx
 
@@ -458,11 +458,11 @@ Output Skill
 
 ---
 
-PHASE 11: Enterprise Linux Administration
+# PHASE 11: Enterprise Linux Administration
 
-Goal: Think like production engineer.
+## Goal: Think like production engineer.
 
-Topics
+### Topics
 
 Boot troubleshooting
 
@@ -495,13 +495,13 @@ Output Skill
 
 ---
 
-PHASE 12: Cloud & DevOps Bridge
+# PHASE 12: Cloud & DevOps Bridge
 
 This is where YOU should heavily focus because your target is Cloud/DevOps.
 
-Topics
+## Topics
 
-Linux in AWS EC2
+### Linux in AWS EC2
 
 SSH in cloud
 
