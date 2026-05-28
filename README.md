@@ -1,3 +1,14 @@
+
+# Real Linux admins:
+```
+Read logs
+
+Debug failures
+
+Automate tasks
+
+Work in terminal 90% of the time
+````
 # PHASE 1: Linux Foundations
 
 ## Goal: Stop fearing the terminal.
@@ -403,6 +414,123 @@ Health monitoring script
 User creation automation
 
 Disk alert automation
+
+
+Output Skill
+
+“Junior automation engineer.”
+
+
+---
+
+PHASE 10: Server Administration
+
+Goal: Run real services.
+
+Topics
+
+Apache/Nginx
+
+MariaDB/MySQL basics
+
+NFS
+
+Samba
+
+FTP basics
+
+System monitoring
+
+
+Hands-on
+
+Host website
+
+Share files between servers
+
+Configure DB server
+
+
+Output Skill
+
+“Can manage real infrastructure.”
+
+
+---
+
+PHASE 11: Enterprise Linux Administration
+
+Goal: Think like production engineer.
+
+Topics
+
+Boot troubleshooting
+
+Rescue mode
+
+Performance tuning
+
+Log rotation
+
+Monitoring tools
+
+Kernel basics
+
+System recovery
+
+
+Hands-on
+
+Break system intentionally
+
+Recover failed bootloader
+
+Diagnose performance issues
+
+
+Output Skill
+
+“Can troubleshoot under pressure.”
+
+
+---
+
+PHASE 12: Cloud & DevOps Bridge
+
+This is where YOU should heavily focus because your target is Cloud/DevOps.
+
+Topics
+
+Linux in AWS EC2
+
+SSH in cloud
+
+Security groups
+
+Linux for Docker
+
+Linux for Kubernetes
+
+Ansible basics
+
+Git basics
+
+CI/CD basics
+
+
+Hands-on
+
+Launch EC2 Linux server
+
+Automate configuration
+
+Deploy containerized app
+
+
+Output Skill
+
+“Cloud-ready Linux admin.”
+
 
 
 Output Skill
